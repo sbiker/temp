@@ -2,12 +2,12 @@ MANUAL INSTALLATION
 ------------------------------------------------------------------------------------------
 * Install the required dependencies by using the 'bundle' command as follows:
 
-  (ruby -S) bundle install (--path=vendor/bundle --binstubs)
+    (ruby -S) bundle install (--path=vendor/bundle --binstubs)
 
 
 * If you don't have 'bundler' already you might need to install it as follows:
 	
-	(ruby -S) gem install bundler   (or 'gem install bundler')    
+    (ruby -S) gem install bundler   (or 'gem install bundler')    
 
 
 * Once that's done you can run the tests from inside the folder that contains the 'Rakefile' as explained below.
