@@ -6,7 +6,7 @@ MANUAL INSTALLATION
 
 
 * If you don't have 'bundler' already you might need to install it as follows:
-	
+
     (ruby -S) gem install bundler   (or 'gem install bundler')    
 
 
