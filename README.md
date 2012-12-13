@@ -2,7 +2,7 @@ MANUAL INSTALLATION
 ------------------------------------------------------------------------------------------
 * Install the required dependencies by using the 'bundle' command as follows:
 
-    (ruby -S) bundle install (--path=vendor/bundle --binstubs)
+    (ruby -S) bundle install --path=vendor/bundle --binstubs
 
 
 * If you don't have 'bundler' already you might need to install it as follows:
